@@ -12,3 +12,16 @@ streamlit<br/>
 pypdf<br/>
 chromadb<br/>
 tiktoken<br/>
+
+## Set up
+```shell
+$ pip install -r requirements.txt
+```
+
+## Launch the app
+
+Use the following command to run the app in your localhost.
+
+```
+streamlit run ./main.py
+```
